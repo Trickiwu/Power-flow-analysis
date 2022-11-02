@@ -1,0 +1,15 @@
+-----------------------------------------------------------------------------------------------------------------------------------
+Final Result Difference Percentage: 
+
+Total number of groups:300    
+Number of convergence groups:300    
+	U Error Percentage:0.00383
+	Angle Error:0.03778
+	PF Error:0.01183
+	QF Error:0.00455
+	P Error:0.00000
+	P Error Percentage:0.00036
+	Q Error:0.00006
+	Q Error Percentage:0.13827
+
+
